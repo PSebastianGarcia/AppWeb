@@ -3,3 +3,8 @@
     height: 300px;
     max-height: 20vw;
 }
+
+#template-file {
+
+    display: none;
+}
